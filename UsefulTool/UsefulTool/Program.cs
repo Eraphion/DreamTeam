@@ -8,6 +8,10 @@ namespace UsefulTool
 {
     class Program
     {
+        static void Module()
+        {
+            Console.WriteLine("Separate module");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("InitCommit");
