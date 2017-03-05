@@ -12,6 +12,10 @@ namespace UsefulTool
         {
             Console.WriteLine("InitCommit");
             Console.WriteLine("SecondCommit");
+
+            Console.WriteLine("Second person commit");
+            for (int i = 0; i < 10; i++)
+                Console.Write(i);
         }
     }
 }
