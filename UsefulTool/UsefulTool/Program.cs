@@ -11,6 +11,10 @@ namespace UsefulTool
         static void Module()
         {
             Console.WriteLine("Separate module");
+
+            Console.WriteLine("I can see Alternative branch");
+            Console.WriteLine("1234567890");
+
         }
         static void Main(string[] args)
         {
